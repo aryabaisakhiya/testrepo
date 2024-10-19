@@ -43,22 +43,23 @@ Installation
 
 3. Open your web browser and navigate to `http://127.0.0.1:5000/`.
 
-## Usage
+Usage
 - Register or log in to your account to access personalized alerts and safety tips.
 - Explore real-time crime data and predictive analytics to understand crime trends in your area.
 
-## Contributing
+Contributing
 Contributions are welcome! If you would like to contribute to Crime 360, please fork the repository and submit a pull request with your changes.
 
-## License
+License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For inquiries or feedback, please reach out to us at [sav47@gmail.com].
+Contact
+For inquiries or feedback, please reach out to us at [techtrojanssav47@gmail.com].
 
 ---
 
-**Stay Safe, Stay Informed with Crime 360!**
+Stay Safe, Stay Informed with Crime 360!
 ```
 
 Feel free to customize any sections, especially the installation steps, features, and contact details, to better fit your project's specifics!
+Predicting Crime, Protecting Lives! HAVE A GOOD DAY!
