@@ -1,4 +1,4 @@
-Here's a sample `README.md` content for the **Crime 360** project:
+`README.md`:
 
 ```markdown
 Crime 360
